@@ -21,12 +21,9 @@ const Home = () => {
 	setReset(true);
   }
 
-
-
-
 return (
 	<div>
-	<h1>This is my home page</h1>
+	<h1>Tic Tac Toe</h1>
 
  {/* Shrinks the popup when there is no winner */}
  <div className={`winner ${winner !== '' ? '' : 'shrink'}`}>

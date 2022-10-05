@@ -10,7 +10,6 @@ import Scores from './pages/Scores';
 function App() {
 
 
-
   return (
     <div className="App">
 
