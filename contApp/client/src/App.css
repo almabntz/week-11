@@ -142,3 +142,8 @@ align-content: center;
   fieldset{
     border: none !important;
   }
+
+  .image-size{
+    border-radius: 50%;
+    max-width: 80px;
+  }
